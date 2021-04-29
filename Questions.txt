@@ -1,0 +1,35 @@
+1.Write a function method1() such that it can accept 
+    a variable length of  argument and print all arguments value
+
+2. Write a function calculation() such that it can accept two 
+    variables and calculate the multiplication and division of them.
+
+3. Create a function showStudent() in such a way that it should 
+    accept student name, and their age and display both.
+
+4. Print the numbers between 50 and 200 using while loop
+
+5. Given a list, iterate it, and display numbers divisible by 4. HINT -> The modulous should be 0 if
+the number is divisible by four.
+
+
+Test two:
+1. Write code to display numbers from 10 to 1 using for loop in decending order
+2. Given a number count the total number of digits in that number
+3. Write a program to display all odd numbers within range(80)
+4. Use a loop to display elements from a given list that are present at even index positions
+5. Given a two list of numbers create a new list such that new list should contain only odd 
+	numbers from the first list and even numbers from the second list
+	list1 =  [10, 20, 23, 11, 17]
+        list 2 = [13, 43, 24, 36, 12] #Use the append function
+
+
+
+
+
+
+
+
+
+
+	

@@ -11,5 +11,5 @@ friends = {
 #             print(friends.key)
 for key, values in friends.items():
     for value in values:
-        if value == "Creative" and "Not_Charming" and "Masculine":
+        if value == "Not_Charming":
             print("Conglatulations " + key + "! you can fuck Veronica")
