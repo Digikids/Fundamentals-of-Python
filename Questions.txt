@@ -17,19 +17,52 @@ Test two:
 1. Write code to display numbers from 10 to 1 using for loop in decending order
 2. Given a number count the total number of digits in that number
 3. Write a program to display all odd numbers within range(80)
-4. Use a loop to display elements from a given list that are present at even index positions
+4. Use a loop to display elements from a given list that are 
+  present at even index positions
 5. Given a two list of numbers create a new list such that new list should contain only odd 
 	numbers from the first list and even numbers from the second list
 	list1 =  [10, 20, 23, 11, 17]
-        list 2 = [13, 43, 24, 36, 12] #Use the append function
+    list 2 = [13, 43, 24, 36, 12] #Use the append function
 
+Test Three:
+1. Use a while loop to print the following pattern
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * * * 
+* * * * * * * 
+* * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * * * 
+2. Create a python function that generates a Python list of all the even numbers between 4 to 30
+3. Create a function that returns the largest item from the given list 
+	aList = [4, 6, 8, 24, 12, 2]
+4. Create a Vehicle class with max_speed and mileage instance attributes
+5. Create a Vehicle class without any variables and methods
 
+Test 4
+1. Iterate a given list and count the occurrence of each element
+2. Given a list, iterate it, and display numbers divisible by five, 
+    and if you find a number greater than 150, stop the loop iteration.
+3. Display a message “Done” after successful execution of for loop
+4. Write a program to display all prime numbers within a range
+5. Print the following pattern
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
 
+Test 5
+1. Remove empty strings from the list of strings
+2. Given a Python list of numbers. Turn every item of a list into its square
+3. Given two strings, s1 and s2, create a new string by appending s2 in the middle of s1
+4. Create a python function that generates a Python list of all the even numbers between 4 to 30
+5. Create a function that returns the largest item from the given list
 
-
-
-
-
-
-
-	
