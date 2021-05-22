@@ -16,7 +16,5 @@ emails = ["ngugikeoni@gmail.com",
 "john.w.gacheru@gmail.com",
 "risperwamaitha98@gmail.com"]
 
-print(emails)
-
 choosen = random.choice(emails)
 print(choosen)

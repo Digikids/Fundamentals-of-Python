@@ -86,6 +86,8 @@ for num in my_list:
 
 
 my_list = [20, 39, 17, 13, 45, 1, 13, 30, 25, 35, 10, 13, 13, 165, 20, 39, 17, 13, 45, 1, 13, 30, 25, 35, 10, 13, 13, 165]
+
+
 for i in my_list:
     count = my_list.count(i)
     print(f"{i} : {count}")
